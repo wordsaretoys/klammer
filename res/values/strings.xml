@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    
+    <!-- COMMON or SHARED -->
+    
+    <string name="app_name">Klammer</string>
+    
+    <!-- action result messages -->
+    
+	<string name="actionError">Internal error. Please restart the application.</string>
+	<string name="actionBusy">Wifi system is busy and cannot service this request. Please wait and try again.</string>
+	<string name="actionNoSupport">Wifi Direct is not supported on this device.</string>
+	<string name="actionNoServices">No services are available.</string>
+
+    <!-- dialogs -->
+    
+    <string name="buttonClose">Close</string>
+    
+    
+    
+    <!-- MAIN ACTIVITY -->
+    
+    <!-- menu -->
+    
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="settings">Settings</string>
+
+    <!-- controls and views -->
+
+	<string name="peerListTitle">Available peers</string>    
+    <string name="peerListEmpty">No peers detected.</string>
+    
+    <string name="playToneButton">Tone</string>
+    
+</resources>

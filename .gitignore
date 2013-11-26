@@ -1,0 +1,4 @@
+dc.sh
+libs/*
+bin/*
+*.bin
