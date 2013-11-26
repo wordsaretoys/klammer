@@ -1,0 +1,6 @@
+Klammer is a bare-bones videophone app for Android that works over Wifi Direct.
+
+It uses the MP4V-ES and 3GPP codecs, and does not currectly support noise or echo cancellation. The minimum supported SDK version is 16 (required for Wifi Direct). The project files are Eclipse/ADT.
+
+I've provided it for anyone who's interested in making such an app and would like a base to build on. 
+
